@@ -77,11 +77,11 @@ WSGI_APPLICATION = 'Crud.wsgi.application'
 DATABASES = {
      'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'crudd_db',
-        'USER' : 'root',
-        'PASSWORD' : 'Melvin@123',
-        'HOST': 'localhost',
-        'PORT' : '3306'
+        'NAME': 'X_X_X',
+        'USER' : 'X_X_X',
+        'PASSWORD' : 'X_X_X',
+        'HOST': 'X_X_X',
+        'PORT' : 'X_X_X'
     }
 }
 
